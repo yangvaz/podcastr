@@ -31,6 +31,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [React](https://reactjs.org)
 - [Next](https://nextjs.org)
 - [Sass](https://sass-lang.com)
+- [Date-fns](https://date-fns.org)
+- [Json Server](https://github.com/typicode/json-server)
 
 ---
 
