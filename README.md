@@ -33,6 +33,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Sass](https://sass-lang.com)
 - [Date-fns](https://date-fns.org)
 - [Json Server](https://github.com/typicode/json-server)
+- [Axios](https://github.com/axios/axios)
 
 ---
 
